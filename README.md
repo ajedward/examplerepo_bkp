@@ -11,6 +11,7 @@ The seed contains a sample AngularJS application that is to be used only for git
 The seed app *really* doesn't do much, just shows how to wire two controllers and views together.
 
 Change to README on experiment.
+Another change to README on experiment.
 
 ## Getting Started -- why not today?
 
