@@ -1,5 +1,7 @@
 # example-repo this is the example repo of the angular training.
 
+Adding README change to master.
+
 This project is an application skeleton for a typical [AngularJS](http://angularjs.org/) web app.
 You can use it to quickly bootstrap your angular webapp projects and dev environment for these
 projects.
