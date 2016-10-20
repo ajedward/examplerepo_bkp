@@ -12,7 +12,7 @@ The seed app *really* doesn't do much, just shows how to wire two controllers an
 
 ## Getting Started -- why not today?
 
-To get you started you can simply clone the angular-seed repository and install the dependencies:
+To get started, clone this repo and practise some git.
 
 ### Prerequisites
 
